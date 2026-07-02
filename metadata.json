@@ -1,0 +1,6 @@
+{
+  "name": "CineStream",
+  "description": "Premium CineStream movie streaming platform with high-end player, AI-powered recommendations, anime view, and comprehensive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
